@@ -8,3 +8,4 @@ I bypassed the "Hello World" web apps to dive straight into the deep end of plug
 This tracker is my attempt to git my life together, one green square at a time. It’s about consistency, not intensity.
 
 This repo will serve as the tracking branch for all my Obsidian-related updates. Watch this space as I attempt to merge my chaotic learning curve into a stable main branch.
+<img width="1310" height="762" alt="image" src="https://github.com/user-attachments/assets/950b2fd4-c0fe-4efa-ae84-da9bc99ac70c" />
